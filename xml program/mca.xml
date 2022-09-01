@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="mca_table.xsl"?>
+<mcc>
+	<mca>
+		<stud_name roll_no="23">RAJ KUMAR </stud_name>
+		<age> 22 </age> <percentage> 95% </percentage>
+	</mca>
+	<mca>
+		<stud_name roll_no="15">AMMY </stud_name>
+		<age>22</age> <percentage> 90%</percentage>
+	</mca>
+	<mca>
+		<stud_name roll_no="16">CYRUS</stud_name>
+		<age>22</age> <percentage>80%</percentage>
+	</mca>
+	<mca>
+		<stud_name roll_no="25">KARTHICK</stud_name>
+		<age>21</age> <percentage>82%</percentage>
+	</mca>
+	<mca>
+		<stud_name roll_no="20">SAKTHI</stud_name>
+		<age>21</age> <percentage> 89%</percentage>
+	</mca>
+</mcc>

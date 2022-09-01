@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="sample.xsl"?>
+
+<amazon>
+	<flipkart>
+	<title prod="milk">max</title>
+	<cost>200</cost>
+	</flipkart>
+	
+	<flipkart>
+	<title prod="butter">min</title>
+	<cost>500</cost>
+	</flipkart>
+	
+	<flipkart>
+	<title prod="nan">avg</title>
+	<cost>520</cost>
+	</flipkart>
+	
+</amazon>

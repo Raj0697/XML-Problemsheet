@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="filter.xsl"?>
+<tab>
+	<std>
+	<name regno="100">raj</name>
+	<sex>male</sex>
+	<edu>pg</edu>
+	<marks>98</marks>
+
+	</std>
+	<std>
+	<name regno="200">ammy</name>
+	<sex>male</sex>
+	<edu>ug</edu>
+	<marks>87</marks>
+	
+	</std>
+	<std>
+	<name regno="300">vijay</name>
+	<sex>female</sex>
+	<edu>pg</edu>
+	<marks>56</marks>
+	
+	</std>
+</tab>

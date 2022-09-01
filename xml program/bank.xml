@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="bank.xsl"?>
+<sbi>
+	<acc type="saving">
+	<name>raj</name>
+	<bal>50000000</bal>
+	<address>london</address>
+	</acc>
+	
+	<acc type="saving">
+	<name>vijay</name>
+	<bal>54949</bal>
+	<address>chennai</address>
+	</acc>
+	
+	<acc type="current">
+	<name>karthick</name>
+	<bal>2121210</bal>
+	<address>india</address>
+	</acc>
+	
+	<acc type="current">
+	<name>guru</name>
+	<bal>200</bal>
+	<address>dfss</address>
+	</acc>
+	
+	<acc type="saving">
+	<name>bala</name>
+	<bal>100</bal>
+	<address>cxcv</address>
+	</acc>
+</sbi>

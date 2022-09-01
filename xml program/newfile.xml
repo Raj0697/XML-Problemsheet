@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<family>
+	<life>
+		<father mother="chitra">ravi</father>
+		<sister>no</sister>
+		<city>chennai</city>
+	</life>
+	<life>
+		<father mother="sugu">mugen</father>
+		<sister>yes</sister>
+		<city>madurai</city>
+	</life>
+</family>

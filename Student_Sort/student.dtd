@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!ELEMENT student (name,no,age,mark)>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name gender (male | female) #IMPLIED>
+<!ELEMENT no (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT mark (#PCDATA)>

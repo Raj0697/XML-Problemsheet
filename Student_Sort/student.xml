@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE student SYSTEM "student.dtd">
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<MCA>
+<student>
+<name>Vimal</name>
+<no>064cs130</no>
+<age>25</age>
+<mark>85</mark>
+</student>
+<student>
+<name>Dinesh</name>
+<no>064cs116</no>
+<age>21</age>
+<mark>90</mark>
+</student>
+<student>
+<name>Saravanan</name>
+<no>064cs125</no>
+<age>28</age>
+<mark>70</mark>
+</student>
+<student>
+<name>Ramya</name>
+<no>064cs131</no>
+<age>35</age>
+<mark>75</mark>
+</student>
+<student>
+<name>Nouser</name>
+<no>064cs132</no>
+<age>14</age>
+<mark>85</mark>
+</student>
+</MCA>

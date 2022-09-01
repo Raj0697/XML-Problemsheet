@@ -1,0 +1,15 @@
+<?xml version="1.0"	?>
+<?xml-stylesheet href = "style.css" type="text/css"?> 
+<!DOCTYPE fruit [
+<!ELEMENT fruit (apple,orange,pear)>
+<!ELEMENT apple (#PCDATA)>
+<!ELEMENT orange (#PCDATA)>
+<!ELEMENT pear (#PCDATA)>
+]>
+
+<fruit>
+<apple>golden delicious</apple>
+<orange>seville</orange>
+<pear>conference</pear>
+</fruit>
+  

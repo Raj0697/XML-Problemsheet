@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="hotel.xsl"?>
+<hotel>
+	<chola>
+		<address id="10">chennai</address>
+		<room>star</room>
+		<cost>5000</cost>
+	</chola>
+	<chola>
+		<address id="20">mumbai</address>
+		<room>royalde</room>
+		<cost>10000</cost>
+	</chola>
+</hotel>
+		

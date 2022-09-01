@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<library>	
+	<book>
+		<title  author="dennis">OOPS </title>
+		<price> 1000</price>
+		<year_of_publication> 1998</year_of_publication>
+	</book>
+	<book>
+		<title author="dennis">IP </title>
+		<price> 500</price>
+		<year_of_publication> 2000</year_of_publication>
+	</book>
+	<book>
+		<title author="michael">POS</title>
+		<price>800</price>
+		<year_of_publication>2005</year_of_publication>
+	</book>
+	<book>
+		<title  author="dennis">DBMS </title>
+		<price> 1500</price>
+		<year_of_publication> 1986</year_of_publication>
+	</book>
+	<book>
+		<title author="sundar">MC </title>
+		<price> 5000</price>
+		<year_of_publication> 2010</year_of_publication>
+	</book>
+	<book>
+		<title author="sam">JAVA</title>
+		<price>8000</price>
+		<year_of_publication>2015</year_of_publication>
+	</book>
+	<book>
+		<title  author="jack">AJP </title>
+		<price> 1088</price>
+		<year_of_publication> 2008</year_of_publication>
+	</book>
+	<book>
+		<title author="kingston">STRUTS </title>
+		<price> 500</price>
+		<year_of_publication> 2018</year_of_publication>
+	</book>
+	<book>
+		<title author="orton">XML</title>
+		<price>8000</price>
+		<year_of_publication>2009</year_of_publication>
+	</book>
+	<book>
+		<title author="dennis">AJAX</title>
+		<price>900</price>
+		<year_of_publication>1999</year_of_publication>
+	</book>
+</library>

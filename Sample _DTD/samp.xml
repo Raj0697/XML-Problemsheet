@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="samp.css" type="text/css" ?>
+
+<!DOCTYPE mcaclass [
+<!ELEMENT mcaclass (studname, Gender)>
+<!ELEMENT studname (#PCDATA)>
+<!ATTLIST studname stno CDATA #FIXED "aa">
+<!ELEMENT gender (#PCDATA)>
+]>
+
+<mcaclass>
+<student>
+	<studname stno="aa">ccccc</studname>
+	<gender>male</gender>
+</student>
+<student>
+	<studname stno="aa">ddddd</studname>
+	<gender>female</gender>
+</student>
+<student>
+	<studname stno="bb">eeeee</studname>
+	<gender>male</gender>
+</student>
+</mcaclass>

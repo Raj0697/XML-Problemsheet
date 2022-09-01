@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="grocery.xsl"?>
+<grocery>
+	<products>
+		<s.no name="fruits">1.</s.no>
+		<des>apple,banana,etc,.</des>
+		<price>$200 perkg</price>
+		<quantity>2kg</quantity>
+		<amount>$400</amount>
+	</products>
+	<products>
+		<s.no name="vegetables">2.</s.no>
+		<des>carrot,tomato,etc,.</des>
+		<price>$100 perkg</price>
+		<quantity>2kg</quantity>
+		<amount>$200</amount>
+	</products>
+	<products>
+		<s.no name="milkitems">3.</s.no>
+		<des>cheese,curd,etc,.</des>
+		<price>$400 perkg</price>
+		<quantity>5kg</quantity>
+		<amount>$2000</amount>
+	</products>
+	<products>
+		<s.no name="rice">4.</s.no>
+		<des>basmati,seeragasamba,etc,.</des>
+		<price>$500 perkg</price>
+		<quantity>10kg</quantity>
+		<amount>$5000</amount>
+	</products>
+	<products>
+		<s.no name="drinks">5.</s.no>
+		<des>juice,hot,cooldrinks,etc,.</des>
+		<price>$800 perlitre</price>
+		<quantity>2kg</quantity>
+		<amount>$1600</amount>
+	</products>
+
+</grocery>

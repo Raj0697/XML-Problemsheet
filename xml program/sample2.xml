@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="sample.css" type="text/css"?>
+<personal>
+<entry>
+<name>Raj Kumar</name>
+<familiar>raj</familiar>
+<tel>044-564567676</tel>
+</entry>
+
+<entry>
+<name>dwayne johnson</name>
+<familiar>rock</familiar>
+<tel>888-212121</tel>
+<tel preferred="true">888-1230</tel>
+</entry>
+</personal>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="food.xsl"?>
+<food>
+	<fooditem type="veg">
+	<name>carrot</name>
+	<energy>89</energy>
+	</fooditem>
+	<fooditem type="nonveg">
+	<name>meat</name>
+	<energy>44</energy>
+	</fooditem>
+	<fooditem type="veg">
+	<name>beetroot</name>
+	<energy>299</energy>
+	</fooditem>
+</food>
